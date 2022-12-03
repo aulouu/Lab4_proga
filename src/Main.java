@@ -1,7 +1,7 @@
 import Persons.*;
 
 public class Main {
-    public static void main(String[] args) throws Location {
+    public static void main(String[] args) throws Exception {
         Piglet piglet = new Piglet("Пятачок");
         WinnieThePooh winnieThePooh = new WinnieThePooh("Винни-Пух");
         ChristopherRobin christopherRobin = new ChristopherRobin("Кристофер Робин");
